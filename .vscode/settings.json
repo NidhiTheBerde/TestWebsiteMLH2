@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/37b39c57-51b0-427d-b5db-66651f4a5210/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/TestWebsiteMLH2",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
